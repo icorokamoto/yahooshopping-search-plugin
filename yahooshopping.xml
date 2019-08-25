@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Yahoo! ショッピング</ShortName>
+  <Description>Yahoo! ショッピングの検索プラグイン（非公式）です。</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwklEQVQ4jaWTwQ3CMAxF/wiM0AmKsa9IdASOvXFhDzICG7QjsAHZgG5AN6AbfA5JD61aNQFL/+JIT//bMQj1hL0IbQgR5BYhBSEVoY6wIRswhWlPSPUHwB6EMUSyZ5A2hN6C7EIcTkELcWMMpkv93ME5E+BmAJE8wMK8cgArg1SfaL9b20SbCLivOXCEtYuPKRV/5ftnQHSxMQftEyD7I1HWwdGosibK6+bRhQMzEvqZ9m2I+y9SYnTzVcVeT8hu7H0B0ZP5zvGGyTIAAAAASUVORK5CYII=</Image>
+  <Url type="text/html" method="GET" template="https://search.shopping.yahoo.co.jp/search?p={searchTerms}" />
+</OpenSearchDescription>
